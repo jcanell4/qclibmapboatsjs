@@ -1,0 +1,21 @@
+{
+    "name": "LibMapaVaixells",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Josep Cañellas",
+    "contributors": [],
+    "dependencies": {
+        "ol": "latest"
+    },
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-copy":"latest",
+        "grunt-gh-pages":"latest"
+    }
+}
