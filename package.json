@@ -15,6 +15,7 @@
     },
     "devDependencies": {
         "grunt": "latest",
+        "grunt-contrib-clean":"latest",
         "grunt-contrib-copy":"latest",
         "grunt-gh-pages":"latest"
     }
