@@ -1,5 +1,5 @@
 import Feature from 'ol/Feature';
-import millisPerDay from "./timeModule";
+import millisPerDay from "./TimeModule";
 
 const DEPARTUREDATE = 0;
 const ARRIBALDATE = 1;
